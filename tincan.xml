@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6LcSypchhR4_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">ReflexIGCSE</name>
+			<description lang="und" />
+			<launch lang="und">quiz.html</launch>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6kTsokeyfuc" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">ReflexIGCSE</name>
+			<description lang="und">ReflexIGCSE</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5ZUWlh8Eegv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results Slide</name>
+			<description lang="und">Results Slide</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6a3ta6euFxc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5zmwwC8JCiW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click on any part of this dogs CNS</name>
+			<description lang="und">Click on any part of this dogs CNS</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5zmwwC8JCiW/6GGijNFtl0U" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Click on any part of this dogs CNS</name>
+			<description lang="und">Click on any part of this dogs CNS</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6KPXnWtwoKI</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6KPXnWtwoKI</id>
+					<description lang="und">Freeform Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6FmtWXu2Qyr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">This is a diagram of a crab. Click where you would expect to find it’s brain</name>
+			<description lang="und">This is a diagram of a crab. Click where you would expect to find it’s brain</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6FmtWXu2Qyr/6gQfpxfGobk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">This is a diagram of a crab. Click where you would expect to find it’s brain</name>
+			<description lang="und">This is a diagram of a crab. Click where you would expect to find it’s brain</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6PRIn6oooJh</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6PRIn6oooJh</id>
+					<description lang="und">Oval Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6Wlhg8kdMTC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/60lsvTm9W4g" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">This is a picture of a single vertebra (a part of the back-bone). If it were in your body, where would you expect to find your spinal cord?</name>
+			<description lang="und">This is a picture of a single vertebra (a part of the back-bone). If it were in your body, where would you expect to find your spinal cord?</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/60lsvTm9W4g/5kZBq7b3PSs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">This is a picture of a single vertebra (a part of the back-bone). If it were in your body, where would you expect to find your spinal cord?</name>
+			<description lang="und">This is a picture of a single vertebra (a part of the back-bone). If it were in your body, where would you expect to find your spinal cord?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_62JPMGXvAep</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_62JPMGXvAep</id>
+					<description lang="und">Freeform Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6739rCZka4J" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">This is a picture of three vertebrae. If they were in your body, where would you expect to find your spinal cord?</name>
+			<description lang="und">This is a picture of three vertebrae. If they were in your body, where would you expect to find your spinal cord?</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6739rCZka4J/6CVDtUjJkjX" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">This is a picture of three vertebrae. If they were in your body, where would you expect to find your spinal cord?</name>
+			<description lang="und">This is a picture of three vertebrae. If they were in your body, where would you expect to find your spinal cord?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5dPB3yqdzk4</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5dPB3yqdzk4</id>
+					<description lang="und">Freeform Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6WTdg7aHwHg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6JCAKixvFAz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drag the sentences into the correct order to describe the role of a motor neurone in a reflex arc.</name>
+			<description lang="und">Drag the sentences into the correct order to describe the role of a motor neurone in a reflex arc.</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6JCAKixvFAz/6FMpFtsdFUg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag the sentences into the correct order to describe the role of a motor neurone in a reflex arc.</name>
+			<description lang="und">Drag the sentences into the correct order to describe the role of a motor neurone in a reflex arc.</description>
+			<interactionType>sequencing</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5XYie7HsMCd</correctResponsePattern>
+				<correctResponsePattern>choice_5fs23HJ5FvG</correctResponsePattern>
+				<correctResponsePattern>choice_6f3FBpTr6Or</correctResponsePattern>
+				<correctResponsePattern>choice_5wFNV7jNLCW</correctResponsePattern>
+				<correctResponsePattern>choice_6EZhaxsNe5Y</correctResponsePattern>
+				<correctResponsePattern>choice_6am4WTWGETB</correctResponsePattern>
+				<correctResponsePattern>choice_6pYc9wPZ8Ks</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5XYie7HsMCd</id>
+					<description lang="und">A motor neurone carries </description>
+				</component>
+				<component>
+					<id>choice_5fs23HJ5FvG</id>
+					<description lang="und">an impulse from a synapse </description>
+				</component>
+				<component>
+					<id>choice_6f3FBpTr6Or</id>
+					<description lang="und">with a relay neurone in the</description>
+				</component>
+				<component>
+					<id>choice_5wFNV7jNLCW</id>
+					<description lang="und"> CNS (the brain or spinal cord) </description>
+				</component>
+				<component>
+					<id>choice_6EZhaxsNe5Y</id>
+					<description lang="und">to an effector.</description>
+				</component>
+				<component>
+					<id>choice_6am4WTWGETB</id>
+					<description lang="und">At the effector, a chemical is released</description>
+				</component>
+				<component>
+					<id>choice_6pYc9wPZ8Ks</id>
+					<description lang="und">which makes the effector to respond.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5VC8GCOACvc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Select the label for the effector.</name>
+			<description lang="und">Select the label for the effector.</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5VC8GCOACvc/66xnhhH92WN" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Select the label for the effector.</name>
+			<description lang="und">Select the label for the effector.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6i1BzViNhsz</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6i1BzViNhsz</id>
+					<description lang="und">A</description>
+				</component>
+				<component>
+					<id>choice_5a4pyynn8Ym</id>
+					<description lang="und">J</description>
+				</component>
+				<component>
+					<id>choice_6LDqBy3q1QH</id>
+					<description lang="und">F</description>
+				</component>
+				<component>
+					<id>choice_6YJNVxXceVK</id>
+					<description lang="und">H</description>
+				</component>
+				<component>
+					<id>choice_5ZzARpc1y8k</id>
+					<description lang="und">E</description>
+				</component>
+				<component>
+					<id>choice_5rPeJVt5Rbu</id>
+					<description lang="und">B</description>
+				</component>
+				<component>
+					<id>choice_6G0zw5D5P04</id>
+					<description lang="und">I</description>
+				</component>
+				<component>
+					<id>choice_6r89g2Gm2vD</id>
+					<description lang="und">C</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5cGsFYXSm45" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Select the label for the relay neurone</name>
+			<description lang="und">Select the label for the relay neurone</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5cGsFYXSm45/6qaGSzrxrNr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Select the label for the relay neurone</name>
+			<description lang="und">Select the label for the relay neurone</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6mSl9gcfDlf</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6mSl9gcfDlf</id>
+					<description lang="und">E</description>
+				</component>
+				<component>
+					<id>choice_5seLnJYWqiS</id>
+					<description lang="und">J</description>
+				</component>
+				<component>
+					<id>choice_6mFEWvLHKEV</id>
+					<description lang="und">A</description>
+				</component>
+				<component>
+					<id>choice_6SXMFWDpti7</id>
+					<description lang="und">F</description>
+				</component>
+				<component>
+					<id>choice_5sHPV84hIdy</id>
+					<description lang="und">H</description>
+				</component>
+				<component>
+					<id>choice_5hC2fUiIZEb</id>
+					<description lang="und">B</description>
+				</component>
+				<component>
+					<id>choice_6c1lCXVKWyM</id>
+					<description lang="und">I</description>
+				</component>
+				<component>
+					<id>choice_6NfGQAFwLrN</id>
+					<description lang="und">C</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5bTugnF4zVN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drag the sentences into the correct order to describe the role of a sensory neurone in a reflex arc.</name>
+			<description lang="und">Drag the sentences into the correct order to describe the role of a sensory neurone in a reflex arc.</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5bTugnF4zVN/6FMgzuALM2k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag the sentences into the correct order to describe the role of a sensory neurone in a reflex arc.</name>
+			<description lang="und">Drag the sentences into the correct order to describe the role of a sensory neurone in a reflex arc.</description>
+			<interactionType>sequencing</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5d6wKcW9ia8</correctResponsePattern>
+				<correctResponsePattern>choice_6NgIYAOwQNL</correctResponsePattern>
+				<correctResponsePattern>choice_5tdmZEuCNxX</correctResponsePattern>
+				<correctResponsePattern>choice_61v5N8sjHI1</correctResponsePattern>
+				<correctResponsePattern>choice_675Nu9mz5Vt</correctResponsePattern>
+				<correctResponsePattern>choice_610nzR6PnMD</correctResponsePattern>
+				<correctResponsePattern>choice_5lZiMqAi8h0</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5d6wKcW9ia8</id>
+					<description lang="und">A receptor cell detects a strong impulse,  then a sensory neurone carries </description>
+				</component>
+				<component>
+					<id>choice_6NgIYAOwQNL</id>
+					<description lang="und">an impulse  from a receptor cell into the CNS (brain or spinal cord).</description>
+				</component>
+				<component>
+					<id>choice_5tdmZEuCNxX</id>
+					<description lang="und">Here it forms a synapse with a relay neurone. </description>
+				</component>
+				<component>
+					<id>choice_61v5N8sjHI1</id>
+					<description lang="und">At this point, the CNS controls</description>
+				</component>
+				<component>
+					<id>choice_675Nu9mz5Vt</id>
+					<description lang="und">where the impulse is transmitted to </description>
+				</component>
+				<component>
+					<id>choice_610nzR6PnMD</id>
+					<description lang="und">e.g. to a  motor neurone </description>
+				</component>
+				<component>
+					<id>choice_5lZiMqAi8h0</id>
+					<description lang="und">and then to an effector.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5VPWkvfuxeG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Select the label for grey matter</name>
+			<description lang="und">Select the label for grey matter</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5VPWkvfuxeG/6i4pYTakguj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Select the label for grey matter</name>
+			<description lang="und">Select the label for grey matter</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6CVUfG0TtMc</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6CVUfG0TtMc</id>
+					<description lang="und">H</description>
+				</component>
+				<component>
+					<id>choice_6b6hEvS05cJ</id>
+					<description lang="und">J</description>
+				</component>
+				<component>
+					<id>choice_6SkYqVwcMp1</id>
+					<description lang="und">A</description>
+				</component>
+				<component>
+					<id>choice_6VKLzVvzwgD</id>
+					<description lang="und">F</description>
+				</component>
+				<component>
+					<id>choice_5zqpZtHwjJX</id>
+					<description lang="und">E</description>
+				</component>
+				<component>
+					<id>choice_61OWYFKURrf</id>
+					<description lang="und">B</description>
+				</component>
+				<component>
+					<id>choice_6GabSCYJiJO</id>
+					<description lang="und">I</description>
+				</component>
+				<component>
+					<id>choice_6ZdurvHxyp7</id>
+					<description lang="und">C</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/67FTJ2zhy0L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Select the label for the sensory neurone dendron</name>
+			<description lang="und">Select the label for the sensory neurone dendron</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/67FTJ2zhy0L/6aEyb0UaQjP" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Select the label for the sensory neurone dendron</name>
+			<description lang="und">Select the label for the sensory neurone dendron</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5YZjBF1lNjC</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5YZjBF1lNjC</id>
+					<description lang="und">F</description>
+				</component>
+				<component>
+					<id>choice_6ESN8qk2ccm</id>
+					<description lang="und">J</description>
+				</component>
+				<component>
+					<id>choice_5qDGWnw10f9</id>
+					<description lang="und">A</description>
+				</component>
+				<component>
+					<id>choice_68MBqazTVkM</id>
+					<description lang="und">H</description>
+				</component>
+				<component>
+					<id>choice_6C7ma8OxwLI</id>
+					<description lang="und">E</description>
+				</component>
+				<component>
+					<id>choice_5gTaHiGuwM1</id>
+					<description lang="und">B</description>
+				</component>
+				<component>
+					<id>choice_6F4pMtBIE6I</id>
+					<description lang="und">I</description>
+				</component>
+				<component>
+					<id>choice_6j9EIutLYSI</id>
+					<description lang="und">C</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5e97RH5KOMA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Select the label for the receptor</name>
+			<description lang="und">Select the label for the receptor</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5e97RH5KOMA/6jq6hRofolK" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Select the label for the receptor</name>
+			<description lang="und">Select the label for the receptor</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5oHAswq0bBl</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5oHAswq0bBl</id>
+					<description lang="und">C</description>
+				</component>
+				<component>
+					<id>choice_6TbkPYOApLA</id>
+					<description lang="und">J</description>
+				</component>
+				<component>
+					<id>choice_6HK8WyRNyH7</id>
+					<description lang="und">A</description>
+				</component>
+				<component>
+					<id>choice_6NTUlsJLyzP</id>
+					<description lang="und">F</description>
+				</component>
+				<component>
+					<id>choice_6CEWbDxWDci</id>
+					<description lang="und">H</description>
+				</component>
+				<component>
+					<id>choice_6JNJw45X8vQ</id>
+					<description lang="und">E</description>
+				</component>
+				<component>
+					<id>choice_6IIm7mvmZJ1</id>
+					<description lang="und">B</description>
+				</component>
+				<component>
+					<id>choice_6DEzqURm6Xz</id>
+					<description lang="und">I</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5eAyhrWrz0w" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Select the label for white matter</name>
+			<description lang="und">Select the label for white matter</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/5eAyhrWrz0w/6kCbUl7NnoA" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Select the label for white matter</name>
+			<description lang="und">Select the label for white matter</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5XrdaAtGmsO</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5XrdaAtGmsO</id>
+					<description lang="und">J</description>
+				</component>
+				<component>
+					<id>choice_5r8NMIFpfpf</id>
+					<description lang="und">A</description>
+				</component>
+				<component>
+					<id>choice_6CLzmw8qA9S</id>
+					<description lang="und">F</description>
+				</component>
+				<component>
+					<id>choice_6UDyM4MUERI</id>
+					<description lang="und">H</description>
+				</component>
+				<component>
+					<id>choice_5qvAfZuLe01</id>
+					<description lang="und">E</description>
+				</component>
+				<component>
+					<id>choice_6YRPmDX41Nt</id>
+					<description lang="und">B</description>
+				</component>
+				<component>
+					<id>choice_6NEbHgt3jQo</id>
+					<description lang="und">I</description>
+				</component>
+				<component>
+					<id>choice_5oK09xYZjLp</id>
+					<description lang="und">C</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6BVOrNfmkbL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Select the label for the motor neurone</name>
+			<description lang="und">Select the label for the motor neurone</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6BVOrNfmkbL/6d0PDtYWNZ6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Select the label for the motor neurone</name>
+			<description lang="und">Select the label for the motor neurone</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5pXPxLG87zf</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5pXPxLG87zf</id>
+					<description lang="und">I</description>
+				</component>
+				<component>
+					<id>choice_65rrCfCEzFe</id>
+					<description lang="und">J</description>
+				</component>
+				<component>
+					<id>choice_6pnjGV0zJVZ</id>
+					<description lang="und">A</description>
+				</component>
+				<component>
+					<id>choice_68Grlo0Hp2v</id>
+					<description lang="und">F</description>
+				</component>
+				<component>
+					<id>choice_63iw8tlXpKo</id>
+					<description lang="und">H</description>
+				</component>
+				<component>
+					<id>choice_5hPOP0a6oT2</id>
+					<description lang="und">E</description>
+				</component>
+				<component>
+					<id>choice_5nv4Lg0H6rL</id>
+					<description lang="und">B</description>
+				</component>
+				<component>
+					<id>choice_6MqYYo6rRQe</id>
+					<description lang="und">C</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6iSBww1KLD6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Select the label for the sensory neurone cell body</name>
+			<description lang="und">Select the label for the sensory neurone cell body</description>
+		</activity>
+		<activity id="http://6LcSypchhR4_course_id/6iSBww1KLD6/66fSdAJgyhp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Select the label for the sensory neurone cell body</name>
+			<description lang="und">Select the label for the sensory neurone cell body</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6URyOPGkBe9</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6URyOPGkBe9</id>
+					<description lang="und">B</description>
+				</component>
+				<component>
+					<id>choice_6CNGAgdcOGD</id>
+					<description lang="und">J</description>
+				</component>
+				<component>
+					<id>choice_6nDaoizzqDL</id>
+					<description lang="und">A</description>
+				</component>
+				<component>
+					<id>choice_6HDOVpvlx5k</id>
+					<description lang="und">F</description>
+				</component>
+				<component>
+					<id>choice_6GEnwvyVAl4</id>
+					<description lang="und">H</description>
+				</component>
+				<component>
+					<id>choice_5bVRCX95HrW</id>
+					<description lang="und">E</description>
+				</component>
+				<component>
+					<id>choice_5rpSJs2WnBB</id>
+					<description lang="und">I</description>
+				</component>
+				<component>
+					<id>choice_6qQ8lXCk4q1</id>
+					<description lang="und">C</description>
+				</component>
+			</choices>
+		</activity>
+	</activities>
+</tincan>
